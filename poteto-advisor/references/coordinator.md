@@ -1,0 +1,12 @@
+# Codex coordinator adapter
+
+1. Read entry and canonical contract; inspect actual role availability. The role key is workflow-advisor, display Poteto. No available key means no dedicated dispatch. A generic simulation must be labeled simulation and needs its own task authority.
+2. Resolve output ownership/handling from target guidance before capture. Keep private evidence and project reports outside reusable source; a path or symlink alone is insufficient proof.
+3. Send a fresh actual-role worker a standalone startup-only brief with fork_turns: "none": live question/decision, targets and revision/cutoff, exclusions, authorized actions, budget, output rules, primary evidence locators and contract path/version. Do not supply private full-chat copies or earlier verdicts as conclusions to adopt.
+4. Inspect the actual startup response and supported host records: role selection/fork metadata where exposed, loaded contract version, scope/authority, current workflow, usable evidence/tools and output handling. A worker's self-report does not substitute for host evidence. Mark missing metadata unverified rather than pass or proven violation. Repair bounded startup gaps with the same child; do not release substantial investigation until required startup checks are satisfied.
+5. Release only the accepted bounded investigation to the same child. Inspect results against requirements and original evidence. Use a separate fresh independent reviewer for consequential/reusable conclusions; never count the author as independent review.
+6. Retain context for continuation. For unrelated work or independent review use a new worker; reload changed guidance and reconcile old decisions on uncertain resume. A direct user conversation with an actually selected profile needs no absent parent approval.
+
+Tool availability and host permissions govern what can actually execute. Do not create a visible chat unless requested, interrupt active developing chats, claim runtime isolation from wording, or send cross-chat handoffs without direct authorization. Preserve startup/release/review records in approved task storage, not this package.
+
+Made with 🍵
