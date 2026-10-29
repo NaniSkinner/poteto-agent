@@ -1,6 +1,6 @@
-# Poteto candidate 1.0.1
+# Poteto 1.0.2
 
-Public source package; not yet installed or accepted for real work. Role `workflow-advisor`, display Poteto, entry `poteto-advisor`. Actual-role discovery and a controlled fixture run succeeded in a fresh desktop chat; general rollout and a real-work pilot remain unaccepted. This package does not modify Pstack, global Codex configuration or upstream `pstack-poteto-agent`.
+Public source package for bounded, supervised agent-workflow advice. Role `workflow-advisor`, display Poteto, entry `poteto-advisor`. Controlled desktop execution and a read-only real-work pilot received fresh review. These establish their scoped results, not broad reliability, context-compaction behavior or perfect evidence capture. Installation is host-specific. Pstack and its upstream `pstack-poteto-agent` remain unchanged.
 
 The canonical model-agnostic contract is `poteto-advisor/references/contract.md`; the thin entry discovers and dispatches it. Coordinator, evidence-capture and evaluation references define host integration, original-result preservation, checkpoint acceptance and promotion evidence. Generic continuity is orientation, not live authority. Private project reports, tool returns, review receipts and session exports belong in approved task storage outside this source.
 
@@ -14,6 +14,8 @@ python3.12 scripts/manage.py check
 
 `render` writes only `codex/workflow-advisor.toml` beneath the selected source, creating it exclusively; an identical existing file is untouched and any differing file is refused. Reconcile an owned stale candidate manually before regeneration. Linked destinations are refused. `check` is read-only and catches exact contract/path/profile drift. `--source PATH` selects a local package; there is no install command. The generated candidate embeds the canonical contract and exact current source path; moving the package requires deliberate regeneration. These checks prove file consistency, not runtime behavior or semantic reliability.
 
-Before installation: freeze controlled expectations, retain baseline/treatment outputs separately, obtain fresh independent review, and test the actual registered desktop role. Public source publication is authorized. No role launch, real-work pilot, installation or team rollout is claimed. Installation requires a separate decision. Generated machine-specific profiles are ignored by Git; render a local candidate from your own checkout.
+For an authorized personal installation, keep this checkout at a durable path, render and inspect your own generated profile, register it as `~/.codex/agents/workflow-advisor.toml`, and link `~/.agents/skills/poteto-advisor` to this checkout's `poteto-advisor` directory. Do not overwrite an unrelated registration. Add explicit personal routing to read the entry and select the actual role with a standalone brief and `fork_turns: "none"`. The coordinator owns startup and review acceptance. Verify exact registered/source bytes and one normal actual-role invocation. Existing sessions may lack a newly registered role; check actual capability and report the limit rather than substitute another agent or restart unrelated work.
+
+Generated machine-specific profiles are ignored by Git. Private reports, transcripts and receipts stay outside this repository. Calling Poteto does not activate Pstack Poteto Mode or authorize modifications, sends or product operations. Evidence capture still needs coordinator inspection; unavailable host attestation remains explicit.
 
 Made with 🍵
