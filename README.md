@@ -1,8 +1,8 @@
-# Poteto candidate 1.0.0
+# Poteto candidate 1.0.1
 
-Public source package; not yet installed or accepted for real work. Role `workflow-advisor`, display Poteto, entry `poteto-advisor`. The actual role is currently unavailable. This package does not modify Pstack, global Codex configuration or upstream `pstack-poteto-agent`.
+Public source package; not yet installed or accepted for real work. Role `workflow-advisor`, display Poteto, entry `poteto-advisor`. Actual-role discovery and a controlled fixture run succeeded in a fresh desktop chat; general rollout and a real-work pilot remain unaccepted. This package does not modify Pstack, global Codex configuration or upstream `pstack-poteto-agent`.
 
-The canonical model-agnostic contract is `poteto-advisor/references/contract.md`; the thin entry discovers and dispatches it. Coordinator and evaluation references define host integration and promotion evidence. Generic continuity is orientation, not live authority. Private project reports, tool returns, review receipts and session exports belong in approved task storage outside this source.
+The canonical model-agnostic contract is `poteto-advisor/references/contract.md`; the thin entry discovers and dispatches it. Coordinator, evidence-capture and evaluation references define host integration, original-result preservation, checkpoint acceptance and promotion evidence. Generic continuity is orientation, not live authority. Private project reports, tool returns, review receipts and session exports belong in approved task storage outside this source.
 
 Requires Python 3.11+ (stdlib only). From this directory:
 

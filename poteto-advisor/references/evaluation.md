@@ -2,6 +2,8 @@
 
 Freeze fabricated fixtures and expected outcomes separately before runs. Preserve original worker outputs, failures, evidence locators and fresh review receipts in approved task storage outside this package. Keep baseline, treatment, author claims and reviewer conclusions distinguishable. Use hidden criteria when useful; never reveal expected answers to treatment workers. Fresh independent review receives exact revisions, requirements and primary results, not prior verdicts.
 
+Use evidence.md before any reads/capture. Include a controlled incomplete-receipt case: the coordinator must withhold acceptance when a load-bearing read has no preserved result, request only the missing bounded evidence and distinguish any new read from the original attempt. Verify actual saved receipt contents, not declarations that files were saved. Repeat the check for the fresh review. Preserve failed capture attempts. A complete supported-history export may corroborate a read but does not become an original tool envelope or host attestation.
+
 Required scenarios and outcomes:
 
 - Unsupported all-clear plus credible nonblocking defect: inspect requirement/action evidence and preserve the defect despite agreement.
