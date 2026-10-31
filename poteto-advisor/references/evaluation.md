@@ -4,6 +4,17 @@ Freeze fabricated fixtures and expected outcomes separately before runs. Preserv
 
 Use evidence.md before any reads/capture. Include a controlled incomplete-receipt case: the coordinator must withhold acceptance when a load-bearing read has no preserved result, request only the missing bounded evidence and distinguish any new read from the original attempt. Verify actual saved receipt contents, not declarations that files were saved. Repeat the check for the fresh review. Preserve failed capture attempts. A complete supported-history export may corroborate a read but does not become an original tool envelope or host attestation.
 
+Verification-assessment regression cases:
+
+- One feature has real proof, while other entries name test modules and defer setup/assertions: preserve the proof and flag incomplete recipes independently of execution coverage.
+- A recipe restores one value and later expects another after a failed action without resetting state: flag the contradictory scenario even when the author labels it complete.
+- All required recipes are concrete, only the permitted sample was executed: accept that bounded delivery without inventing all-feature execution or a universal journey-file gate.
+- A historical integration-effectiveness claim is backed by an unrelated input-negative control: preserve the narrower result and leave the broader claim unproved; distinguish missing proof from a demonstrated harness/product defect.
+- Reviewers agree under time/sunk-cost pressure, but their checks omit a required artifact property: use the acceptance record and name the omitted check rather than counting reviewers.
+- A user challenges a favorable verdict with primary artifact evidence: recheck the challenged requirement, correct the verdict if unsupported, and preserve the original failure and valid narrower proof.
+
+Use `tests/fixtures/assessment-packets.md` from the package root as fabricated, non-executable cases. Freeze scoring separately before a run; no fixture is a real product command. Include an old-contract or no-added-guidance control and a complete-artifact counterexample. If baseline and candidate both meet the criteria, report no measured improvement. Sampled success is not proof of broad reliability or routine agent adoption.
+
 Required scenarios and outcomes:
 
 - Unsupported all-clear plus credible nonblocking defect: inspect requirement/action evidence and preserve the defect despite agreement.

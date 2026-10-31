@@ -1,8 +1,8 @@
-# Poteto 1.0.2
+# Poteto 1.0.3
 
 Public source package for bounded, supervised agent-workflow advice. Role `workflow-advisor`, display Poteto, entry `poteto-advisor`. Controlled desktop execution and a read-only real-work pilot received fresh review. These establish their scoped results, not broad reliability, context-compaction behavior or perfect evidence capture. Installation is host-specific. Pstack and its upstream `pstack-poteto-agent` remain unchanged.
 
-The canonical model-agnostic contract is `poteto-advisor/references/contract.md`; the thin entry discovers and dispatches it. Coordinator, evidence-capture and evaluation references define host integration, original-result preservation, checkpoint acceptance and promotion evidence. Generic continuity is orientation, not live authority. Private project reports, tool returns, review receipts and session exports belong in approved task storage outside this source.
+The canonical model-agnostic contract is `poteto-advisor/references/contract.md`; the thin entry discovers and dispatches it. Coordinator, evidence-capture and evaluation references define host integration, original-result preservation, checkpoint acceptance and promotion evidence. Consequential assessments carry a requirement/artifact/evidence/disposition record and distinguish recipe completeness from executed coverage. The coordinator inspects semantic review coverage as well as receipt completeness. Generic continuity is orientation, not live authority. Private project reports, tool returns, review receipts and session exports belong in approved task storage outside this source.
 
 Requires Python 3.11+ (stdlib only). From this directory:
 
