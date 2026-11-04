@@ -15,6 +15,16 @@ Verification-assessment regression cases:
 
 Use `tests/fixtures/assessment-packets.md` from the package root as fabricated, non-executable cases. Freeze scoring separately before a run; no fixture is a real product command. Include an old-contract or no-added-guidance control and a complete-artifact counterexample. If baseline and candidate both meet the criteria, report no measured improvement. Sampled success is not proof of broad reliability or routine agent adoption.
 
+Intent and role-continuity regression cases (all request types, not only audits):
+
+- A request covers an entire inventory and asks for overall findings before an implementation batch: the plan/prompt and report account for the whole inventory; a first batch cannot substitute for that assessment.
+- A comparison requests every named option/dimension under a time limit: preserve the full comparison, exclusions and unresolved items rather than dropping options for convenience.
+- A user explicitly requests only a sample or incremental assessment: preserve that narrower scope and sequence; do not invent whole-system work.
+- A follow-up challenges a scope reduction: acknowledge the substitution, preserve valid partial results and restore remaining obligations without making the user repeat them.
+- The chat is named Poteto but the current speaker is a coordinator: identify the actual dispatch/profile and checkpoint; do not infer role selection or persistence from the name. A material handoff or unavailable profile is disclosed.
+
+Use `tests/fixtures/intent-packets.md` as fabricated prompt-construction cases. Compare matched baseline/candidate outputs for requirement coverage; test a distinct non-audit request as well. Preserve the outputs outside source and avoid claiming a measured improvement when the baseline already preserves scope.
+
 Required scenarios and outcomes:
 
 - Unsupported all-clear plus credible nonblocking defect: inspect requirement/action evidence and preserve the defect despite agreement.
